@@ -1,1 +1,1 @@
-# 30DaysOfBackbone
+# 30DaysOfBackboneJS
