@@ -1,4 +1,4 @@
-# IntroToBackboneJS
+# TestingBackboneJS
 
 Backbone.js is a lightweight JavaScript framework that helps to structure web applications by providing a set of useful components, such as models, views, collections, and events.
 
